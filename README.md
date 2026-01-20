@@ -61,7 +61,7 @@ Sigmoid activation for binary classification
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/YOUR-USERNAME/cat-and-dog-image-classification.git
+git clone https://github.com/ Areej56/cat-and-dog-image-classification.git
 cd cat-and-dog-image-classification
 
 2️⃣ Install dependencies
