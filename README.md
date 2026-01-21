@@ -60,8 +60,10 @@ Fully connected (Dense) layers
 Sigmoid activation for binary classification
 
 ▶️ How to Run the Project
+
 1️⃣ Clone the repository
-git clone https://github.com/ Areej56/cat-and-dog-image-classification.git
+
+git clone https://github.com/Areej56/cat-and-dog-image-classification.git
 cd cat-and-dog-image-classification
 
 2️⃣ Install dependencies
@@ -84,7 +86,9 @@ Accuracy improves with training epochs
 Predictions can be visualized using test images
 
 📁 Project Structure
+
 cat-and-dog-image-classification/
+
 ├── cat-and-dog-image-classification.ipynb
 ├── README.md
 
